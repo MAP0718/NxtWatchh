@@ -3,6 +3,8 @@ In this project, let's build **Nxt Watch** by applying the concepts we have lear
 ### Refer to the videos below:
 
 **Success View** <br/>
+<p>The below url can be used for live demo and the credentials are {username :rahul password :rahul@2021}</p>
+<h1>https://mapwatch.ccbp.tech/login</h1>
 
 <div style="text-align: center;">
      <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
